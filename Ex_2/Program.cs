@@ -11,6 +11,5 @@ int length = int.Parse(Console.ReadLine()!);
 
 for (int i = 1; i <= length; i++)
 {
-
     Console.Write(Fibonacci(i));
 }
